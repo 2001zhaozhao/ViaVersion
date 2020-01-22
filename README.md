@@ -2,6 +2,10 @@
 [![Build Status](https://travis-ci.com/ViaVersion/ViaVersion.svg?branch=master)](https://travis-ci.com/ViaVersion/ViaVersion)
 [![Discord](https://img.shields.io/badge/chat-on%20discord-blue.svg)](https://viaversion.com/discord)
 
+
+[FORK BY THE GUNCOLONY SERVER]: This fork removes showing silverfish blocks as normal bricks. This allows server resource packs that retexture silverfish blocks to something else to work properly.
+
+
 **Allows the connection of higher client versions to lower server versions**
 
 Supported Versions:
